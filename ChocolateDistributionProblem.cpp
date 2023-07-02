@@ -1,4 +1,8 @@
-
+//DSA Sheet by Arsh - Updated 2023
+//https://www.geeksforgeeks.org/chocolate-distribution-problem/
+//  https://twitter.com/VatsalGupt81731
+//#CrackYourInternship
+//#CrackYourPlacement
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
