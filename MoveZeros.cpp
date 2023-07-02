@@ -1,6 +1,6 @@
 //DSA Sheet by Arsh - Updated 2023
-// question: https://leetcode.com/problems/set-matrix-zeroes/
-// https://leetcode.com/submissions/detail/984792700/
+// https://leetcode.com/problems/move-zeroes/
+// https://leetcode.com/submissions/detail/984812628/
 //  https://twitter.com/VatsalGupt81731
 //#CrackYourInternship
 //#CrackYourPlacement
